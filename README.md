@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gordon Dewis aka @KeeperOfMaps
 
-During the day, I work for Statistics Canada as an analyst and survey manager,
-however none of what I'm doing here is related to that. Outside of work, I'm  involved with
+During the day, I work for Statistics Canada as a data analyst and survey manager,
+however none of what I'm doing here is related to that. Outside of work, I'm involved with
 a citizen science organization called [CosmoQuest](https://github.com/CosmoQuestX) as part of the editorial team and 
 one of their streamers on Twitch, and I'm also helping with their
 citizen science software.
