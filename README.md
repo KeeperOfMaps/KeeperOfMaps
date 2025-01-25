@@ -16,7 +16,7 @@ citizen science software.
 ### 📫 How to reach me ...
 * Mastodon: [@KeeperOfMaps@mastodon.coffee](https://mastodon.coffee/@KeeperOfMaps)
 * ~~Twitter: [@KeeperOfMaps](https://twitter.com/KeeperOfMaps)~~
-* Bluesky: [@keeperofmp.bsky.social](https://bsky.app/profile/keeperofmaps.bsky.social)
+* Bluesky: [@keeperofmaps.bsky.social](https://bsky.app/profile/keeperofmaps.bsky.social)
 * Discord: Keeper of Maps#8863
 
 <!---
